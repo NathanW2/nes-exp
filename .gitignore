@@ -1,0 +1,6 @@
+*.o
+*.nes
+*.nes.*
+*.cdl
+
+utils/
